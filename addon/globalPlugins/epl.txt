@@ -1,0 +1,7 @@
+TextInputHost.exe
+SystemSettings.exe
+StartMenuExperienceHost.exe
+ShellExperienceHost.exe
+SearchApp.exe
+ApplicationFrameHost.exe
+LockApp.exe

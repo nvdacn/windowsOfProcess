@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 'windowsOfProcess' '2022.1.1'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2022-01-08 18:04+0800\n"
+"PO-Revision-Date: 2022-01-08 18:07+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.3\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: addon\globalPlugins\windowsOfProcess.py:134
+msgid "{} window， {} process"
+msgstr "{} 窗口， {} 进程"
+
+#: addon\globalPlugins\windowsOfProcess.py:145
+msgid "Window"
+msgstr "窗口"
+
+#: addon\globalPlugins\windowsOfProcess.py:155
+msgid "&Kill the window of process"
+msgstr "结束该窗口对应进程 (&K)"
+
+#: addon\globalPlugins\windowsOfProcess.py:213
+msgid "WindowsOfProcess "
+msgstr "进程窗口切换"
+
+#: addon\globalPlugins\windowsOfProcess.py:224
+msgid "switch between windows with the same process"
+msgstr "切换同进程窗口"
+
+#: addon\globalPlugins\windowsOfProcess.py:228
+msgid "Switch windows of different process"
+msgstr "切换异进程窗口"
+
+#: addon\globalPlugins\windowsOfProcess.py:232
+msgid "Show window list"
+msgstr "显示窗口列表"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on
+#. to be shown on installation and add-on information found in Add-ons Manager.
+#: buildVars.py:23
+msgid "WindowsOfProcess"
+msgstr "进程窗口切换"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:26
+msgid ""
+"allows you to quickly switch between windows with the same process or "
+"different process"
+msgstr "可以让您在同进程或异进程窗口之间快速切换"
