@@ -143,7 +143,7 @@ class windowsListView(wx.Dialog):
 		super(windowsListView,self).__init__(gui.mainFrame,title=title)
 		listBoxSizer = wx.BoxSizer(wx.VERTICAL)
 		self.st = wx.StaticText(self,-1,_("Window"))
-		listBoxSizer.Add(self.st,0.5, wx.ALL, 10)
+		listBoxSizer.Add(self.st, 1, wx.ALL, 10)
 		self.listBox = wx.ListBox(self,-1)
 		listBoxSizer.Add(self.listBox,0,wx.ALL| wx.EXPAND,10)
 		self.SetSizer(listBoxSizer)
