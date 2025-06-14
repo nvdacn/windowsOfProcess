@@ -25,7 +25,7 @@ addon_info = {
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
 	"addon_description": _("""allows you to quickly switch between windows with the same process or different process"""),
 	# version
-	"addon_version": "2024.6.14",
+	"addon_version": "2025.6.14",
 	# Author(s)
 	"addon_author": "沉浮 <394434124@qq.com>",
 	# URL for the add-on documentation support
