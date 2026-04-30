@@ -17,4 +17,3 @@ This is a addon for the NVDA screen reader that allows you to quickly switch bet
 - Version: 2023.3.2
 - Author: ChenFu
 - Compatible with: NVDA2021.1 to 2023.1
-
